@@ -23,9 +23,9 @@ I'm a passionate, self-taught developer currently studying at the University of 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adam-mcdaniel&layout=compact" />
 </a>
 
-<a href="https://github.com/adam-mcdaniel/oakc">
+<a href="https://github.com/adam-mcdaniel/resume">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adam-mcdaniel&repo=oakc" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adam-mcdaniel&repo=resume" />
 </a>    
 <a href="https://adam-mcdaniel.github.io">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
