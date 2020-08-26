@@ -1,4 +1,4 @@
-### Hello! I'm [Adam](adam-mcdaniel.github.io). 👋
+### Hello! I'm [Adam](https://adam-mcdaniel.github.io). 👋
 
 
 I'm a passionate, self-taught developer currently studying at the University of Tennessee Knoxville.
