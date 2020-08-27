@@ -7,7 +7,7 @@ I'm a passionate, self-taught developer currently studying at the University of 
 - 🌱 I’m currently learning frontend development to make my projects look nice :)
 - 👯 I’m looking to collaborate on [Oak](https://github.com/adam-mcdaniel/oakc)
 - 📫 How to reach me: [adam.mcdaniel17@gmail.com](mailto:adam.mcdaniel17@gmail.com)
-- 📖 Read my blog [here](https://adam-mcdaniel.github.io/blog).
+- 📖 Read my blog [here](https://adam-mcdaniel.github.io/blog)
 
 #### My Languages
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
