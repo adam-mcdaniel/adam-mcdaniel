@@ -3,7 +3,7 @@
 
 I'm a passionate, self-taught developer currently studying at the University of Tennessee Knoxville.
 
-- 🔭 I’m currently working on [Oak](https://github.com/adam-mcdaniel/oakc): a portable, general purpose programming language
+- 🔭 I’m currently working on [Wisp](https://github.com/adam-mcdaniel/wisp): an embeddable lisp written in C++
 - 🌱 I’m currently learning frontend development to make my projects look nice :)
 - 👯 I’m looking to collaborate on [Oak](https://github.com/adam-mcdaniel/oakc)
 - 📫 How to reach me: [adam.mcdaniel17@gmail.com](mailto:adam.mcdaniel17@gmail.com)
