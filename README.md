@@ -3,11 +3,13 @@
 
 I'm a passionate, self-taught developer currently studying at the University of Tennessee Knoxville.
 
-- 🔭 I’m currently working on [Wisp](https://github.com/adam-mcdaniel/wisp): an embeddable lisp written in C++
-- 🌱 I’m currently learning frontend development to make my projects look nice :)
-- 👯 I’m looking to collaborate on [Oak](https://github.com/adam-mcdaniel/oakc)
+- 🔭 I’m currently working on [a chess engine](https://github.com/adam-mcdaniel/chess-engine)
+- 🌱 I’m currently learning _frontend_ development to make my projects look nice :)
+- 🤝 I’m looking to collaborate on [my minimal lisp interpreter](https://github.com/adam-mcdaniel/wisp)
+- 💬 Ask me about **compiler design**
 - 📫 How to reach me: [adam.mcdaniel17@gmail.com](mailto:adam.mcdaniel17@gmail.com)
 - 📖 Read my blog [here](https://adam-mcdaniel.github.io/blog)
+- 📄 Learn about my experiences on my [resume](https://github.com/adam-mcdaniel/resume)
 
 #### My Languages
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
