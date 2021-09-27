@@ -3,9 +3,9 @@
 
 I'm a passionate, self-taught developer currently studying at the University of Tennessee Knoxville.
 
-- 🔭 I’m currently working on [a chess engine](https://github.com/adam-mcdaniel/chess-engine)
+- 🔭 I’m currently working on [Dune](https://github.com/adam-mcdaniel/dune)
 - 🌱 I’m currently learning _frontend_ development to make my projects look nice :)
-- 🤝 I’m looking to collaborate on [my minimal lisp interpreter](https://github.com/adam-mcdaniel/wisp)
+- 🤝 I’m looking to collaborate on [my shell](https://github.com/adam-mcdaniel/dune)
 - 💬 Ask me about **compiler design**
 - 📫 How to reach me: [adam.mcdaniel17@gmail.com](mailto:adam.mcdaniel17@gmail.com)
 - 📖 Read my blog [here](https://adam-mcdaniel.github.io/blog)
