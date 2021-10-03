@@ -2,7 +2,9 @@
 ---
 
 <div align="left">
-<img align='right' src="me.png" width="180" />
+<a href="https://adam-mcdaniel.github.io">
+  <img align='right' src="me.png" width="180" />
+</a>
 <p>I'm a passionate, self-taught developer currently studying at the University of Tennessee Knoxville.</p>
 <ul>
   <li> 🔭 I’m currently working on <a href="https://github.com/adam-mcdaniel/dune">Dune</a></li>
