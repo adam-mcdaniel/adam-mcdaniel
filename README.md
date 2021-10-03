@@ -24,7 +24,7 @@ I'm a passionate, self-taught developer currently studying at the University of 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adam-mcdaniel&layout=compact" />
 </a>
 -->
-### My Stats 📈
+#### My Stats
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=adam-mcdaniel&show_icons=true&count_private=true" />
