@@ -1,14 +1,19 @@
 ### Hello! I'm [Adam](https://adam-mcdaniel.github.io). 👋
 ---
-I'm a passionate, self-taught developer currently studying at the University of Tennessee Knoxville.
 
-- 🔭 I’m currently working on [Dune](https://github.com/adam-mcdaniel/dune)
-- 🌱 I’m currently learning _frontend_ development to make my projects look nice :)
-- 🤝 I’m looking to collaborate on [my shell](https://github.com/adam-mcdaniel/dune)
-- 💬 Ask me about **compiler design**
-- 📫 How to reach me: [adam.mcdaniel17@gmail.com](mailto:adam.mcdaniel17@gmail.com)
-- 📖 Read my blog [here](https://adam-mcdaniel.github.io/blog)
-- 📄 Learn about my experiences on my [resume](https://github.com/adam-mcdaniel/resume)
+<div align="left">
+<img align='right' src="me.gif" width="180" />
+<p>I'm a passionate, self-taught developer currently studying at the University of Tennessee Knoxville.</p>
+<ul>
+  <li> 🔭 I’m currently working on <a href="https://github.com/adam-mcdaniel/dune">Dune</a></li>
+  <li> 🌱 I’m currently learning <i>frontend</i> development to make my projects look nice :)</li>
+  <li> 🤝 I’m looking to collaborate on <a href="https://github.com/adam-mcdaniel/dune">my shell</a></li> 
+  <li> 💬 Ask me about <b>compiler design</b></li>
+  <li> 📫 How to reach me: <a href="mailto:adam.mcdaniel17@gmail.com">adam.mcdaniel17@gmail.com</a></li>
+  <li> 📖 Read my blog <a href="https://adam-mcdaniel.github.io/blog">here</a></li>
+  <li> 📄 Learn about my experiences on my <a href="https://github.com/adam-mcdaniel/resume">resume</a></li>
+</ul>
+</div>
 
 #### My Languages
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
