@@ -32,10 +32,16 @@
 #### My Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=adam-mcdaniel&show_icons=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=adam-mcdaniel" />
+  <a href="https://adam-mcdaniel.github.io">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=adam-mcdaniel&show_icons=true&count_private=true" />
+  </a>
+  <a href="https://adam-mcdaniel.github.io">
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=adam-mcdaniel" />
+  </a>
   
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adam-mcdaniel&layout=compact" />
+  <a href="https://adam-mcdaniel.github.io">
+    <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adam-mcdaniel&layout=compact" />
+  </a>
   <a href="https://github.com/adam-mcdaniel/oakc">
     <img width="56%" src="https://github-readme-stats.vercel.app/api/pin/?username=adam-mcdaniel&repo=oakc&line_height=20" />
   </a>
