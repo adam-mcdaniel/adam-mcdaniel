@@ -36,7 +36,9 @@
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=adam-mcdaniel" />
   
   <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adam-mcdaniel&layout=compact" />
-  <img width="56%" src="https://github-readme-stats.vercel.app/api/pin/?username=adam-mcdaniel&repo=oakc&line_height=20" />
+  <a href="https://github.com/adam-mcdaniel/oakc">
+    <img width="56%" src="https://github-readme-stats.vercel.app/api/pin/?username=adam-mcdaniel&repo=oakc&line_height=20" />
+  </a>
 </p>
 
 <!--
