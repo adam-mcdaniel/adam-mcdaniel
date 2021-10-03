@@ -2,7 +2,7 @@
 ---
 
 <div align="left">
-<img align='right' src="me.gif" width="180" />
+<!-- <img align='right' src="me.gif" width="180" /> -->
 <p>I'm a passionate, self-taught developer currently studying at the University of Tennessee Knoxville.</p>
 <ul>
   <li> 🔭 I’m currently working on <a href="https://github.com/adam-mcdaniel/dune">Dune</a></li>
