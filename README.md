@@ -1,6 +1,6 @@
 ### Hello! I'm [Adam](https://adam-mcdaniel.github.io). 👋
 ---
-
+#### 🏆My Trophies🏆
 <p align="center">
   <a href="https://adam-mcdaniel.github.io">
     <img width="99%" src="https://github-profile-trophy.vercel.app/?username=adam-mcdaniel&row=1&column=7" />
