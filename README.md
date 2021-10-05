@@ -1,6 +1,14 @@
 ### Hello! I'm [Adam](https://adam-mcdaniel.github.io). 👋
 ---
 
+<p align="center">
+  <a href="https://adam-mcdaniel.github.io">
+    <img width="99%" src="https://github-profile-trophy.vercel.app/?username=adam-mcdaniel&row=1&column=7" />
+  </a>
+</p>
+
+---
+
 <div align="left">
 <a href="https://adam-mcdaniel.github.io">
   <img align='right' src="me.png" width="180" />
