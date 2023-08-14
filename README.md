@@ -23,7 +23,6 @@
   <li> 📫 How to reach me: <a href="mailto:adam.mcdaniel17@gmail.com">adam.mcdaniel17@gmail.com</a></li>
   <li> 📖 Read my blog <a href="https://adam-mcdaniel.github.io/blog">here</a></li>
   <li> 📄 Learn about my experiences on my <a href="https://github.com/adam-mcdaniel/resume">resume</a></li>
-  <li> 🛠️ Looking for work during the summer! </li>
 </ul>
 </div>
 
