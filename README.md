@@ -53,8 +53,8 @@
   <a href="https://adam-mcdaniel.github.io">
     <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adam-mcdaniel&layout=compact" />
   </a>
-  <a href="https://github.com/adam-mcdaniel/oakc">
-    <img width="56%" src="https://github-readme-stats.vercel.app/api/pin/?username=adam-mcdaniel&repo=oakc&line_height=20" />
+  <a href="https://github.com/adam-mcdaniel/dune">
+    <img width="56%" src="https://github-readme-stats.vercel.app/api/pin/?username=adam-mcdaniel&repo=dune&line_height=20" />
   </a>
 </p>
 
