@@ -47,16 +47,8 @@
 <a href="https://github.com/adam-mcdaniel?tab=repositories&q=&type=&language=html"><img height="32" width="32" src="https://cdn.simpleicons.org/javascript/#F7DF1E/#F7DF1E" /></a>
 
 #### My Tools⚙️
-<img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode/#007ACC/#007ACC" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/git/#F05032/#F05032" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/apple/#000000/#000000" style="background-color:white;border-radius:0.5em" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/linux/#FCC624/#FCC624" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/github/#181717/#181717" style="background-color:white;border-radius:0.5em" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/jupyter/#F37626/#F37626" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/alacritty/#F46D01/#F46D01" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/cmake/#47A141/#47A141" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/overleaf/#064F8C/#064F8C" />
-<a href="https://github.com/adam-mcdaniel/sage"><img height="32" width="32" src="https://cdn.simpleicons.org/sage/#00D639/#00D639" /></a>
+
+<img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode/#007ACC/#007ACC" /><img height="32" width="32" src="https://cdn.simpleicons.org/git/#F05032/#F05032" /><img height="32" width="32" src="https://cdn.simpleicons.org/apple/#000000/#000000" style="background-color:white;border-radius:0.5em" /><img height="32" width="32" src="https://cdn.simpleicons.org/linux/#FCC624/#FCC624" /><img height="32" width="32" src="https://cdn.simpleicons.org/github/#181717/#181717" style="background-color:white;border-radius:0.5em" /><img height="32" width="32" src="https://cdn.simpleicons.org/jupyter/#F37626/#F37626" /><img height="32" width="32" src="https://cdn.simpleicons.org/alacritty/#F46D01/#F46D01" /><img height="32" width="32" src="https://cdn.simpleicons.org/cmake/#47A141/#47A141" /><img height="32" width="32" src="https://cdn.simpleicons.org/overleaf/#064F8C/#064F8C" /><a href="https://github.com/adam-mcdaniel/sage"><img height="32" width="32" src="https://cdn.simpleicons.org/sage/#00D639/#00D639" /></a>
 
 <!--
 <a href="https://adam-mcdaniel.github.io/">
