@@ -70,17 +70,17 @@
   <br/>
   <br/>
   <a href="https://adam-mcdaniel.github.io">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=adam-mcdaniel&show_icons=true&count_private=true&theme=onedark" />
+    <img width="47.5%" src="https://github-readme-stats.vercel.app/api?username=adam-mcdaniel&show_icons=true&count_private=true&theme=onedark" />
   </a>
   <a href="https://adam-mcdaniel.github.io">
-    <img width="51%" src="https://github-readme-streak-stats.herokuapp.com/?user=adam-mcdaniel&theme=onedark" />
+    <img width="50.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=adam-mcdaniel&theme=onedark" />
   </a>
   
   <a href="https://adam-mcdaniel.github.io">
     <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adam-mcdaniel&layout=compact&theme=onedark" />
   </a>
   <a href="https://github.com/adam-mcdaniel/dune">
-    <img width="64%" src="https://github-readme-stats.vercel.app/api/pin/?username=adam-mcdaniel&repo=dune&line_height=20&theme=onedark" />
+    <img width="63.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=adam-mcdaniel&repo=dune&line_height=20&theme=onedark" />
   </a>
 </p>
 
