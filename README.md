@@ -23,6 +23,7 @@
   <li> 📫 How to reach me: <a href="mailto:adam.mcdaniel17@gmail.com">adam.mcdaniel17@gmail.com</a></li>
   <li> 📖 Read my blog <a href="https://adam-mcdaniel.github.io/blog">here</a></li>
   <li> 📄 Learn about my experiences on my <a href="https://github.com/adam-mcdaniel/resume">resume</a></li>
+  <li> 🇪🇸 He estado hablando español desde 2021! Si tú también lo hablas, envíame un mensaje!</li>
 </ul>
 </div>
 
