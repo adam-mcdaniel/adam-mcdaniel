@@ -38,7 +38,7 @@
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/python.svg" style="background-color:white;border-radius:0.5em" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/html5.svg" style="background-color:white;border-radius:0.5em" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/javascript.svg" style="background-color:white;border-radius:0.5em;color:yellow" /> -->
-<a href="https://github.com/adam-mcdaniel?tab=repositories&q=&type=&language=rust"><img height="32" width="32" src="https://cdn.simpleicons.org/rust/#000000/#000000"  style="background-color:white;border-radius:0.5em"/></a>
+<a href="https://github.com/adam-mcdaniel?tab=repositories&q=&type=&language=rust"><img height="32" width="32" src="https://cdn.simpleicons.org/rust/#000000/#FFFFFF"  style="background-color:white;border-radius:0.5em"/></a>
 <a href="https://github.com/adam-mcdaniel?tab=repositories&q=&type=&language=c"><img height="32" width="32" src="https://cdn.simpleicons.org/c/#A8B9CC/#A8B9CC" /></a>
 <a href="https://github.com/adam-mcdaniel?tab=repositories&q=&type=&language=c%2B%2B"></a>
 <img height="32" width="32" src="https://cdn.simpleicons.org/cplusplus/#512BD4/#512BD4" />
@@ -48,7 +48,7 @@
 
 #### My Tools⚙️
 
-<img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode/#007ACC/#007ACC" /><img height="32" width="32" src="https://cdn.simpleicons.org/git/#F05032/#F05032" /><img height="32" width="32" src="https://cdn.simpleicons.org/apple/#000000/#000000" style="background-color:white;border-radius:0.5em" /><img height="32" width="32" src="https://cdn.simpleicons.org/linux/#FCC624/#FCC624" /><img height="32" width="32" src="https://cdn.simpleicons.org/github/#181717/#181717" style="background-color:white;border-radius:0.5em" /><img height="32" width="32" src="https://cdn.simpleicons.org/jupyter/#F37626/#F37626" /><img height="32" width="32" src="https://cdn.simpleicons.org/alacritty/#F46D01/#F46D01" /><img height="32" width="32" src="https://cdn.simpleicons.org/cmake/#47A141/#47A141" /><img height="32" width="32" src="https://cdn.simpleicons.org/overleaf/#064F8C/#064F8C" /><a href="https://github.com/adam-mcdaniel/sage"><img height="32" width="32" src="https://cdn.simpleicons.org/sage/#00D639/#00D639" /></a>
+<img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode/#007ACC/#007ACC" /><img height="32" width="32" src="https://cdn.simpleicons.org/git/#F05032/#F05032" /><img height="32" width="32" src="https://cdn.simpleicons.org/apple/#000000/#FFFFFF" style="background-color:white;border-radius:0.5em" /><img height="32" width="32" src="https://cdn.simpleicons.org/linux/#FCC624/#FCC624" /><img height="32" width="32" src="https://cdn.simpleicons.org/github/#181717/#181717" style="background-color:white;border-radius:0.5em" /><img height="32" width="32" src="https://cdn.simpleicons.org/jupyter/#F37626/#F37626" /><img height="32" width="32" src="https://cdn.simpleicons.org/alacritty/#F46D01/#F46D01" /><img height="32" width="32" src="https://cdn.simpleicons.org/cmake/#47A141/#47A141" /><img height="32" width="32" src="https://cdn.simpleicons.org/overleaf/#064F8C/#064F8C" /><a href="https://github.com/adam-mcdaniel/sage"><img height="32" width="32" src="https://cdn.simpleicons.org/sage/#00D639/#00D639" /></a>
 
 <!--
 <a href="https://adam-mcdaniel.github.io/">
