@@ -40,8 +40,8 @@
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/javascript.svg" style="background-color:white;border-radius:0.5em;color:yellow" /> -->
 <a href="https://github.com/adam-mcdaniel?tab=repositories&q=&type=&language=rust"><img height="32" width="32" src="https://cdn.simpleicons.org/rust/#000000/#FFFFFF"  style="background-color:white;border-radius:0.5em"/></a>
 <a href="https://github.com/adam-mcdaniel?tab=repositories&q=&type=&language=c"><img height="32" width="32" src="https://cdn.simpleicons.org/c/#A8B9CC/#A8B9CC" /></a>
-<a href="https://github.com/adam-mcdaniel?tab=repositories&q=&type=&language=c%2B%2B"></a>
-<img height="32" width="32" src="https://cdn.simpleicons.org/cplusplus/#512BD4/#512BD4" />
+<a href="https://github.com/adam-mcdaniel?tab=repositories&q=&type=&language=c%2B%2B">
+<img height="32" width="32" src="https://cdn.simpleicons.org/cplusplus/#512BD4/#512BD4" /></a>
 <a href="https://github.com/adam-mcdaniel?tab=repositories&q=&type=&language=python"><img height="32" width="32" src="https://cdn.simpleicons.org/python/#3776AB/#3776AB" /></a>
 <a href="https://github.com/adam-mcdaniel?tab=repositories&q=&type=&language=html"><img height="32" width="32" src="https://cdn.simpleicons.org/html5/#E34F26/#E34F26" /></a>
 <a href="https://github.com/adam-mcdaniel?tab=repositories&q=&type=&language=html"><img height="32" width="32" src="https://cdn.simpleicons.org/javascript/#F7DF1E/#F7DF1E" /></a>
