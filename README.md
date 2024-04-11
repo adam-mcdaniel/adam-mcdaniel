@@ -149,6 +149,8 @@
 
 #### My Projects🏗
 
+<div align="center">
+
 |️Category|Projects|
 |---|---|
 |Cybersecurity/Crypto| ▹ [VPN](https://github.com/adam-mcdaniel/vpn)<br/> ▹ [RSA implementation](https://github.com/adam-mcdaniel/rsa)<br/> ▹ [AES implementation](https://github.com/adam-mcdaniel/sage/blob/main/examples/frontend/AES.sg)|
@@ -164,3 +166,5 @@
 |Games| ▹ [Chess Engine](https://github.com/adam-mcdaniel/chess-engine)<br/> ▹ [Game of Life](https://github.com/adam-mcdaniel/game-of-life)<br/> ▹ [Rogue-like Game Engine](https://github.com/adam-mcdaniel/rogue-like)|
 |Web| ▹ [Personal Website](https://adam-mcdaniel.github.io)<br/> ▹ [Blog](https://adam-mcdaniel.github.io/blog)|
 |Miscellaneous| ▹ [Adam's Discord Bot](https://github.com/adam-mcdaniel/adams-bot)<br/> ▹ [Big Integer Library](https://github.com/adam-mcdaniel/bigint)<br/> ▹ [Git Blame Analysis](https://github.com/adam-mcdaniel/blame-tracker)<br/> ▹ [Tiny Package Manager](https://github.com/adam-mcdaniel/rapture)<br/> ▹ [TI84 App Builder](https://github.com/adam-mcdaniel/qalc)<br/> ▹ [Smartlamp API](https://github.com/adam-mcdaniel/smartlamp)<br/> ▹ [Terrible Resume Generator](https://github.com/adam-mcdaniel/ResumeGenerator)|
+
+</div>
