@@ -64,20 +64,22 @@
 #### My Stats📊
 
 <p align="center">
-  <a href="https://adam-mcdaniel.github.io/" >
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=adam-mcdaniel&show_icons=true&include_all_commits=true&theme=onedark" alt="Adam's github stats" width="70%"/>
+  <!-- <a href="https://adam-mcdaniel.github.io/" >
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=adam-mcdaniel&show_icons=true&show=reviews&rank_icon=percentile&theme=onedark&hide=contribs,issues,prs,commits,star" alt="Adam's github stats" width="80%"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=adam-mcdaniel&show_icons=true&show=&rank_icon=percentile&theme=onedark&hide=contribs,issues,prs,commits,stars" alt="Adam's github stats" width="80%"/>
   </a>
   <br/>
-  <br/>
+  <br/> -->
   <a href="https://adam-mcdaniel.github.io">
-    <img width="47.5%" src="https://github-readme-stats.vercel.app/api?username=adam-mcdaniel&show_icons=true&count_private=true&theme=onedark" />
+    <img width="47.5%" src="https://github-readme-stats.vercel.app/api?username=adam-mcdaniel&show_icons=true&count_private=true&theme=onedark&number_format=long" />
   </a>
   <a href="https://adam-mcdaniel.github.io">
     <img width="50.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=adam-mcdaniel&theme=onedark" />
   </a>
-  
+
+  <br/> 
   <a href="https://adam-mcdaniel.github.io">
-    <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adam-mcdaniel&layout=compact&theme=onedark" />
+    <img width="34.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adam-mcdaniel&layout=compact&theme=onedark" />
   </a>
   <a href="https://github.com/adam-mcdaniel/dune">
     <img width="63.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=adam-mcdaniel&repo=dune&line_height=20&theme=onedark" />
