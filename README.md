@@ -1,6 +1,8 @@
 ### Hello! I'm [Adam](https://adam-mcdaniel.github.io). <img src="wave.gif" width="20px" height="20px" />
 ---
+
 #### My Trophies🏆
+
 <p align="center">
   <a href="https://adam-mcdaniel.github.io">
     <img width="99%" src="https://github-profile-trophy.vercel.app/?username=adam-mcdaniel&row=1&column=7&theme=onedark" />
@@ -9,13 +11,14 @@
 
 ---
 
+#### About Me👨‍💻
+
 <div align="left">
 <a href="https://adam-mcdaniel.github.io">
   <img align='right' src="me.png" width="180" />
 </a>
 <p>I'm a passionate graduate student studying at the University of Tennessee󠁵󠁳󠁴󠁮󠁿, Knoxville.</p>
 <ul>
-  
   <li> 🔭 I’m currently working on <a href="https://adam-mcdaniel-blog.github.io/compilers-for-the-future">my blog</a> and <a href="https://github.com/adam-mcdaniel/sage">Sage</a></li>
   <li> 🌱 I’m currently learning <i>frontend</i> development to make my projects look nice :)</li>
   <li> 🤝 I’m looking to collaborate on <a href="https://github.com/adam-mcdaniel/sage">my programming language</a> and <a href="https://github.com/adam-mcdaniel/dune">my shell</a></li> 
@@ -76,7 +79,6 @@
   <a href="https://adam-mcdaniel.github.io">
     <img width="50.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=adam-mcdaniel&theme=onedark" />
   </a>
-
   <br/> 
   <a href="https://adam-mcdaniel.github.io">
     <img width="34.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adam-mcdaniel&layout=compact&theme=onedark" />
@@ -159,7 +161,7 @@
 |---|---|
 |Cybersecurity/Crypto| ▹ [VPN](https://github.com/adam-mcdaniel/vpn)<br/> ▹ [RSA implementation](https://github.com/adam-mcdaniel/rsa)<br/> ▹ [AES implementation](https://github.com/adam-mcdaniel/sage/blob/main/examples/frontend/AES.sg)|
 |Compilers| ▹ [Sage Programming Language](https://github.com/adam-mcdaniel/sage)<br/> ▹ [Oak Programming Language](https://github.com/adam-mcdaniel/oakc)<br/> ▹ [Harbor Programming Language](https://github.com/adam-mcdaniel/harbor)<br/> ▹ [Tsar Programming Language](https://github.com/adam-mcdaniel/tsar)<br/> ▹ [Free Programming Language](https://github.com/adam-mcdaniel/free)<br/> ▹ [Bootstrapped Wisp Compiler](https://github.com/adam-mcdaniel/wisp-bootstrap)<br/> ▹ [Extended BrainF!$@ Compiler](https://github.com/adam-mcdaniel/smpl)|
-|Interpreters| ▹ [Sage-Lisp](https://github.com/adam-mcdaniel/sage-lisp)<br/> ▹ [Wisp](https://github.com/adam-mcdaniel/wisp)<br/> ▹ [Dynamic BrainF!$@ Web Interpreter](https://adam-mcdaniel.github.io/harbor)<br/> ▹ [Dune Scripting Language](https://github.com/adam-mcdaniel/dune)|
+|Interpreters| ▹ [Sage-Lisp](https://github.com/adam-mcdaniel/sage-lisp)<br/> ▹ [Wisp](https://github.com/adam-mcdaniel/wisp)<br/> ▹ [Dynamic BrainF!$@ Web Interpreter](https://adam-mcdaniel.github.io/harbor)<br/> ▹ [Dune Scripting Language](https://github.com/adam-mcdaniel/dune)<br/> ▹ [Maroon Functional Programming Language](https://github.com/adam-mcdaniel/maroon-lang)|
 |Computer Vision| ▹ [Sight - Computer Vision Library](https://github.com/adam-mcdaniel/sight)<br/> ▹ [Command Line Vision Processing](https://github.com/adam-mcdaniel/cmd-vision)|
 |Developer Tools| ▹ [Rusty-CI Continuous Integration Tool](https://github.com/adam-mcdaniel/rusty-ci)<br/> ▹ [Git Blame Analysis](https://github.com/adam-mcdaniel/blame-tracker)|
 |Machine Learning| ▹ [Code Optimization with Genetic Algorithms](https://github.com/adam-mcdaniel/program-evolution)<br/> ▹ [Toki Pona Language Model](https://github.com/adam-mcdaniel/toki-pona-language-model) and [Toki Pona Dataset](https://github.com/adam-mcdaniel/toki-pona-dataset)<br/> ▹ [Gesture Detection](https://github.com/adam-mcdaniel/Octaculus)<br/> ▹ [Characterizing Subreddit Attitudes, Divisiveness, and Humor](https://github.com/adam-mcdaniel/reddit-analysis)|
