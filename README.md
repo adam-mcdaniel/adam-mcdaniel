@@ -49,6 +49,7 @@
 <a href="https://github.com/adam-mcdaniel?tab=repositories&q=&type=&language=python"><img height="32" width="32" src="https://cdn.simpleicons.org/python/#3776AB/#3776AB" /></a>
 <a href="https://github.com/adam-mcdaniel?tab=repositories&q=&type=&language=html"><img height="32" width="32" src="https://cdn.simpleicons.org/html5/#E34F26/#E34F26" /></a>
 <a href="https://github.com/adam-mcdaniel?tab=repositories&q=&type=&language=html"><img height="32" width="32" src="https://cdn.simpleicons.org/javascript/#F7DF1E/#F7DF1E" /></a>
+<img height="32" width="32" src="https://cdn.simpleicons.org/haskell/#5D4F85/#5D4F85" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/latex/#008080/#008080" />
 
 #### My Tools⚙️
