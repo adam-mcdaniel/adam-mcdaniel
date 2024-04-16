@@ -1,4 +1,4 @@
-### Hello! I'm [Adam](https://adam-mcdaniel.github.io). <img src="wave.gif" width="20px" height="20px" />
+### Hello! I'm [Adam](https://adam-mcdaniel.github.io). <a href="https://adam-mcdaniel.github.io"><img src="wave.gif" width="20px" height="20px" /></a>
 ---
 
 #### My Trophies🏆
