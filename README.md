@@ -1,4 +1,5 @@
 ### Hello! I'm [Adam](https://adam-mcdaniel.github.io). <a href="https://adam-mcdaniel.github.io"><img src="wave.gif" width="20px" height="20px" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=18&pause=1000&random=false&width=435&lines=Welcome+to+my+GitHub+profile!%F0%9F%91%8B;My+favorite+language+is+Rust%F0%9F%A6%80;I+love+to+make+programming+languages%F0%9F%92%BB;I+also+love+music%F0%9F%8E%B5+and+linguistics%F0%9F%93%9A;Check+out+my+projects+below!%F0%9F%93%A6)](https://adam-mcdaniel.github.io)
 ---
 
 #### My Trophies🏆
@@ -42,7 +43,7 @@
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/python.svg" style="background-color:white;border-radius:0.5em" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/html5.svg" style="background-color:white;border-radius:0.5em" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/javascript.svg" style="background-color:white;border-radius:0.5em;color:yellow" /> -->
-<a href="https://github.com/adam-mcdaniel?tab=repositories&q=&type=&language=rust"><img height="32" width="32" src="https://cdn.simpleicons.org/rust/#000000/#FFFFFF"  style="background-color:white;border-radius:0.5em"/></a>
+<a href="https://github.com/adam-mcdaniel?tab=repositories&q=&type=&language=rust"><img height="32" width="32" src="https://cdn.simpleicons.org/rust/#000000/#FFFFFF" style="background-color:white;border-radius:0.5em"/></a>
 <a href="https://github.com/adam-mcdaniel?tab=repositories&q=&type=&language=c"><img height="32" width="32" src="https://cdn.simpleicons.org/c/#A8B9CC/#A8B9CC" /></a>
 <a href="https://github.com/adam-mcdaniel?tab=repositories&q=&type=&language=c%2B%2B">
 <img height="32" width="32" src="https://cdn.simpleicons.org/cplusplus/#512BD4/#512BD4" /></a>
