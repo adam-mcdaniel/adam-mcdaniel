@@ -92,8 +92,6 @@
     <img width="63.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=adam-mcdaniel&repo=dune&line_height=20&theme=onedark" />
   </a>
 </p>
-
-![](https://hit.yhype.me/github/profile?user_id=28228031)
 <!-- #### My Projects -->
 
 <!-- <details><summary><b>My Projects🏗️</b></summary> -->
@@ -179,3 +177,5 @@
 |Miscellaneous| ▹ [Adam's Discord Bot](https://github.com/adam-mcdaniel/adams-bot)<br/> ▹ [Big Integer Library](https://github.com/adam-mcdaniel/bigint)<br/> ▹ [Tiny Package Manager](https://github.com/adam-mcdaniel/rapture)<br/> ▹ [TI84 App Builder](https://github.com/adam-mcdaniel/qalc)<br/> ▹ [Smartlamp API](https://github.com/adam-mcdaniel/smartlamp)<br/> ▹ [Terrible Resume Generator](https://github.com/adam-mcdaniel/ResumeGenerator)|
 
 </div>
+
+![](https://hit.yhype.me/github/profile?user_id=28228031)
