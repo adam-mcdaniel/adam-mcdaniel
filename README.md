@@ -156,9 +156,7 @@
   - [Smartlamp API](https://github.com/adam-mcdaniel/smartlamp)
   - [Terrible Resume Generator](https://github.com/adam-mcdaniel/ResumeGenerator) -->
 <!-- </details> -->
-
 <!-- Now rewrite the above list using a table instead -->
-
 #### My Projects🏗
 
 <div align="center">
