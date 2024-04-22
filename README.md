@@ -71,6 +71,7 @@
 #### My Stats📊
 
 <p align="center">
+
   <!-- <a href="https://adam-mcdaniel.github.io/" >
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=adam-mcdaniel&show_icons=true&show=reviews&rank_icon=percentile&theme=onedark&hide=contribs,issues,prs,commits,star" alt="Adam's github stats" width="80%"/>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=adam-mcdaniel&show_icons=true&show=&rank_icon=percentile&theme=onedark&hide=contribs,issues,prs,commits,stars" alt="Adam's github stats" width="80%"/>
@@ -91,6 +92,8 @@
     <img width="63.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=adam-mcdaniel&repo=dune&line_height=20&theme=onedark" />
   </a>
 </p>
+
+![](https://hit.yhype.me/github/profile?user_id=28228031)
 
 <!-- #### My Projects -->
 
