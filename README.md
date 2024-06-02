@@ -21,6 +21,7 @@
 </a>
 <p>I'm a passionate PhD student studying at the University of Tennessee󠁵󠁳󠁴󠁮󠁿, Knoxville.</p>
 <ul>
+  <li> 📺 Checkout my <a href="https://youtu.be/QdnxjYj1pS0?si=b5Seq_Rk0tEtMWgz">YouTube channel</a>, where I talk about software!</li> 
   <li> 🔭 I’m currently working on <a href="https://adam-mcdaniel.github.io/blog/compiler-shell-text-editor-trifecta/">my blog</a> and <a href="https://github.com/adam-mcdaniel/sage">Sage</a></li>
   <li> 🌱 I’m currently learning <i>frontend</i> development to make my projects look nice :)</li>
   <li> 🤝 I’m looking to collaborate on <a href="https://github.com/adam-mcdaniel/sage">my programming language</a> and <a href="https://github.com/adam-mcdaniel/dune">my shell</a></li> 
