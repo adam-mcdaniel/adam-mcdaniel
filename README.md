@@ -33,6 +33,23 @@
 </ul>
 </div>
 
+#### My Websites🌐
+
+|Website|
+|---|
+| ▹ [Personal Website](https://adam-mcdaniel.github.io)|
+| ▹ [Blog](https://adam-mcdaniel.github.io/blog)|
+| ▹ [Sage Programming Language](https://adam-mcdaniel.github.io/sage-website)|
+| ▹ [Dune Shell](https://adam-mcdaniel.github.io/dune-website)|
+| ▹ [Music](https://adam-mcdaniel.github.io/music)|
+
+<!-- |Personal Website| ▹ [adam-mcdaniel.github.io](https://adam-mcdaniel.github.io)|
+|Blog| ▹ [adam-mcdaniel.github.io/blog](https://adam-mcdaniel.github.io/blog)|
+|Sage Programming Language| ▹ [adam-mcdaniel.github.io/sage-website](https://adam-mcdaniel.github.io/sage-website)|
+|Dune Shell| ▹ [adam-mcdaniel.github.io/dune-website](https://adam-mcdaniel.github.io/dune-website)|
+|Music| ▹ [adam-mcdaniel.github.io/music](https://adam-mcdaniel.github.io/music)| -->
+<!-- |Web| ▹ [My Personal Website](https://adam-mcdaniel.github.io)<br/> ▹ [My Blog](https://adam-mcdaniel.github.io/blog)<br/> ▹ [My Music](https://adam-mcdaniel.github.io/music)<br/> ▹ [Sage Website](https://adam-mcdaniel.github.io/sage-website)<br/> ▹ [Dune Website](https://adam-mcdaniel.github.io/dune-website)<br/>| -->
+
 #### My Languages📚
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
@@ -174,7 +191,6 @@
 |Shell Programming| ▹ [Dune Shell](https://github.com/adam-mcdaniel/dune)<br/> ▹ [Atom Shell](https://github.com/adam-mcdaniel/atom)|
 |Text Processing| ▹ [Regex Engine](https://github.com/adam-mcdaniel/regex-engine)<br/> ▹ [Honeycomb Parser Combinator Library](https://github.com/adam-mcdaniel/honeycomb)<br/> ▹ [Argument Parser Library](https://github.com/adam-mcdaniel/clip)<br/> ▹ [YAML Parser Library](https://github.com/adam-mcdaniel/rusty-yaml)<br/> ▹ [Markdown → HTML in Haskell](https://github.com/adam-mcdaniel/markdown-to-html)|
 |Games| ▹ [Chess Engine](https://github.com/adam-mcdaniel/chess-engine)<br/> ▹ [Game of Life](https://github.com/adam-mcdaniel/game-of-life)<br/> ▹ [State Capitalist Chess Engine](https://github.com/adam-mcdaniel/capitalist-chess)<br/> ▹ [Microbiome](https://github.com/adam-mcdaniel/microbiome)<br/> ▹ [Rogue-like Game Engine](https://github.com/adam-mcdaniel/rogue-like)|
-|Web| ▹ [My Personal Website](https://adam-mcdaniel.github.io)<br/> ▹ [My Blog](https://adam-mcdaniel.github.io/blog)<br/> ▹ [My Music](https://adam-mcdaniel.github.io/music)<br/> ▹ [Sage Website](https://adam-mcdaniel.github.io/sage-website)<br/> ▹ [Dune Website](https://adam-mcdaniel.github.io/dune-website)<br/>|
 |Miscellaneous| ▹ [Adam's Discord Bot](https://github.com/adam-mcdaniel/adams-bot)<br/> ▹ [Big Integer Library](https://github.com/adam-mcdaniel/bigint)<br/> ▹ [Tiny Package Manager](https://github.com/adam-mcdaniel/rapture)<br/> ▹ [TI84 App Builder](https://github.com/adam-mcdaniel/qalc)<br/> ▹ [Smartlamp API](https://github.com/adam-mcdaniel/smartlamp)<br/> ▹ [Terrible Resume Generator](https://github.com/adam-mcdaniel/ResumeGenerator)|
 
 </div>
