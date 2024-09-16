@@ -24,7 +24,7 @@
   <li> 📺 Check out my <a href="https://youtu.be/QdnxjYj1pS0?si=b5Seq_Rk0tEtMWgz">YouTube channel</a>, where I talk about software!</li> 
   <li> 🔭 I’m currently working on <a href="https://adam-mcdaniel.github.io/blog/compiler-shell-text-editor-trifecta/">my blog</a> and <a href="https://adam-mcdaniel.github.io/sage-website">Sage</a></li>
   <li> 🌱 I’m currently learning <i>frontend</i> development to make my projects look nice :)</li>
-  <li> 🤝 I’m looking to collaborate on <a href="https://github.com/adam-mcdaniel/sage">my programming language</a> and <a href="https://github.com/adam-mcdaniel/dune-website">my shell</a></li> 
+  <li> 🤝 I’m looking to collaborate on <a href="https://github.com/adam-mcdaniel/sage">my programming language</a> and <a href="https://adam-mcdaniel.github.io/dune-website">my shell</a></li> 
   <li> 💬 Ask me about <a href="https://adam-mcdaniel.github.io/blog/compilers-for-the-future">compiler design</a></li>
   <li> 📫 How to reach me: <a href="mailto:adam.mcdaniel17@gmail.com">adam.mcdaniel17@gmail.com</a></li>
   <li> 📖 Read my blog <a href="https://adam-mcdaniel.github.io/blog">here</a></li>
