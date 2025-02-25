@@ -180,6 +180,7 @@
 |️Category|Projects|
 |---|---|
 |Cybersecurity/Crypto| ▹ [VPN](https://github.com/adam-mcdaniel/vpn)<br/> ▹ [RSA implementation](https://github.com/adam-mcdaniel/rsa)<br/> ▹ [AES implementation](https://github.com/adam-mcdaniel/sage/blob/main/examples/frontend/AES.sg)|
+|Chemistry| ▹ [Molecule - An Organic Chemistry Library](https://github.com/adam-mcdaniel/molecule)|
 |Compilers| ▹ [Sage Programming Language](https://github.com/adam-mcdaniel/sage)<br/> ▹ [Oak Programming Language](https://github.com/adam-mcdaniel/oakc)<br/> ▹ [BASM Assembly Language](https://github.com/adam-mcdaniel/basm)<br/> ▹ [Harbor Programming Language](https://github.com/adam-mcdaniel/harbor)<br/> ▹ [Tsar Programming Language](https://github.com/adam-mcdaniel/tsar)<br/> ▹ [Free Programming Language](https://github.com/adam-mcdaniel/free)<br/> ▹ [Bootstrapped Wisp Compiler](https://github.com/adam-mcdaniel/wisp-bootstrap)<br/> ▹ [Extended BrainF!$@ Compiler](https://github.com/adam-mcdaniel/smpl)|
 |Interpreters| ▹ [Sage-Lisp](https://github.com/adam-mcdaniel/sage-lisp)<br/> ▹ [Wisp](https://github.com/adam-mcdaniel/wisp)<br/> ▹ [Dynamic BrainF!$@ Web Interpreter](https://adam-mcdaniel.github.io/harbor)<br/> ▹ [Dune Scripting Language](https://github.com/adam-mcdaniel/dune)<br/> ▹ [Maroon Functional Programming Language](https://github.com/adam-mcdaniel/maroon-lang)|
 |Computer Vision| ▹ [Sight - Computer Vision Library](https://github.com/adam-mcdaniel/sight)<br/> ▹ [Command Line Vision Processing](https://github.com/adam-mcdaniel/cmd-vision)|
