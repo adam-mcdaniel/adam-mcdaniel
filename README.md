@@ -1,4 +1,4 @@
-### Hello! I'm [Adam](https://adam-mcdaniel.github.io). <a href="https://adam-mcdaniel.github.io"><img src="wave.gif" width="20px" height="20px" /></a>
+### Hello! I'm [Adam](https://adam-mcdaniel.github.io). <a href="https://adam-mcdaniel.github.io"><img src="assets/wave.gif" width="20px" height="20px" /></a>
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=18&pause=1000&random=false&width=435&lines=Welcome+to+my+GitHub+profile!%F0%9F%91%8B;My+favorite+language+is+Rust%F0%9F%A6%80;I+love+to+make+programming+languages%F0%9F%92%BB;I+also+love+music%F0%9F%8E%B5+and+linguistics%F0%9F%93%9A;Check+out+my+projects+below!%F0%9F%93%A6)](https://adam-mcdaniel.github.io) -->
 <a href="https://adam-mcdaniel.github.io"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=18&pause=1000&random=false&width=450&lines=Welcome+to+my+GitHub+profile!%F0%9F%91%8B;My+favorite+language+is+Rust%F0%9F%A6%80;I+love+to+make+programming+languages%F0%9F%92%BB;I+also+love+music%F0%9F%8E%B5+and+linguistics%F0%9F%93%9A;Check+out+my+projects+below!%F0%9F%93%A6" alt="Typing SVG" /></a>
 ---
@@ -17,7 +17,7 @@
 
 <div align="left">
 <a href="https://adam-mcdaniel.github.io">
-  <img align='right' src="me.png" width="180" />
+  <img align='right' src="assets/me.png" width="180" />
 </a>
 <p>I'm a passionate PhD student studying at the University of Tennessee󠁵󠁳󠁴󠁮󠁿, Knoxville.</p>
 <ul>
@@ -62,19 +62,19 @@
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/python.svg" style="background-color:white;border-radius:0.5em" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/html5.svg" style="background-color:white;border-radius:0.5em" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/javascript.svg" style="background-color:white;border-radius:0.5em;color:yellow" /> -->
-<a href="https://github.com/adam-mcdaniel?tab=repositories&q=&type=&language=rust"><img height="32" width="32" src="https://cdn.simpleicons.org/rust/#000000/#FFFFFF" style="background-color:white;border-radius:0.5em"/></a>
-<a href="https://github.com/adam-mcdaniel?tab=repositories&q=&type=&language=c"><img height="32" width="32" src="https://cdn.simpleicons.org/c/#A8B9CC/#A8B9CC" /></a>
+<a href="https://github.com/adam-mcdaniel?tab=repositories&q=&type=&language=rust"><img height="32" width="32" src="./assets/lang/rust.svg" style="background-color:white;border-radius:0.5em"/></a>
+<a href="https://github.com/adam-mcdaniel?tab=repositories&q=&type=&language=c"><img height="32" width="32" src="./assets/lang/c.svg" /></a>
 <a href="https://github.com/adam-mcdaniel?tab=repositories&q=&type=&language=c%2B%2B">
-<img height="32" width="32" src="https://cdn.simpleicons.org/cplusplus/#512BD4/#512BD4" /></a>
-<a href="https://github.com/adam-mcdaniel?tab=repositories&q=&type=&language=python"><img height="32" width="32" src="https://cdn.simpleicons.org/python/#3776AB/#3776AB" /></a>
-<a href="https://github.com/adam-mcdaniel?tab=repositories&q=&type=&language=html"><img height="32" width="32" src="https://cdn.simpleicons.org/html5/#E34F26/#E34F26" /></a>
-<a href="https://github.com/adam-mcdaniel?tab=repositories&q=&type=&language=html"><img height="32" width="32" src="https://cdn.simpleicons.org/javascript/#F7DF1E/#F7DF1E" /></a>
-<a href="https://github.com/adam-mcdaniel?tab=repositories&q=&type=&language=haskell"><img height="32" width="32" src="https://cdn.simpleicons.org/haskell/#5D4F85/#5D4F85" /></a>
-<img height="32" width="32" src="https://cdn.simpleicons.org/latex/#008080/#008080" />
+<img height="32" width="32" src="./assets/lang/cpp.svg" /></a>
+<a href="https://github.com/adam-mcdaniel?tab=repositories&q=&type=&language=python"><img height="32" width="32" src="./assets/lang/python.svg" /></a>
+<a href="https://github.com/adam-mcdaniel?tab=repositories&q=&type=&language=html"><img height="32" width="32" src="./assets/lang/html5.svg" /></a>
+<a href="https://github.com/adam-mcdaniel?tab=repositories&q=&type=&language=html"><img height="32" width="32" src="./assets/lang/javascript.svg" /></a>
+<a href="https://github.com/adam-mcdaniel?tab=repositories&q=&type=&language=haskell"><img height="32" width="32" src="./assets/lang/haskell.svg" /></a>
+<img height="32" width="32" src="./assets/lang/latex.svg" />
 
 #### My Tools⚙️
 
-<img height="32" width="32" src="./vscode.svg" /><img height="32" width="32" src="https://cdn.simpleicons.org/git/#F05032/#F05032" /><img height="32" width="32" src="https://cdn.simpleicons.org/apple/#000000/#FFFFFF" style="background-color:white;border-radius:0.5em" /><img height="32" width="32" src="https://cdn.simpleicons.org/linux/#FCC624/#FCC624" /><img height="32" width="32" src="https://cdn.simpleicons.org/github/#181717/#181717" style="background-color:white;border-radius:0.5em" /><img height="32" width="32" src="https://cdn.simpleicons.org/jupyter/#F37626/#F37626" /><img height="32" width="32" src="https://cdn.simpleicons.org/alacritty/#F46D01/#F46D01" /><img height="32" width="32" src="https://cdn.simpleicons.org/cmake/#47A141/#47A141" /><img height="32" width="32" src="https://cdn.simpleicons.org/gatsby/#663399/#663399" /><img height="32" width="32" src="https://cdn.simpleicons.org/overleaf/#064F8C/#064F8C" /><a href="https://github.com/adam-mcdaniel/sage"><img height="32" width="32" src="https://cdn.simpleicons.org/sage/#00D639/#00D639" /></a>
+<img height="32" width="32" src="./assets/tool/vscode.svg" /><img height="32" width="32" src="./assets/tool/git.svg" /><img height="32" width="32" src="./assets/tool/apple.svg" style="background-color:white;border-radius:0.5em" /><img height="32" width="32" src="./assets/tool/linux.svg" /><img height="32" width="32" src="./assets/tool/github.svg" style="background-color:white;border-radius:0.5em" /><img height="32" width="32" src="./assets/tool/jupyter.svg" /><img height="32" width="32" src="./assets/tool/alacritty.svg" /><img height="32" width="32" src="./assets/tool/cmake.svg" /><img height="32" width="32" src="./assets/tool/gatsby.svg" /><img height="32" width="32" src="./assets/tool/overleaf.svg" />
 
 
 <!--
