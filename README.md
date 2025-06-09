@@ -62,7 +62,7 @@
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/python.svg" style="background-color:white;border-radius:0.5em" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/html5.svg" style="background-color:white;border-radius:0.5em" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/javascript.svg" style="background-color:white;border-radius:0.5em;color:yellow" /> -->
-<a href="https://github.com/adam-mcdaniel?tab=repositories&q=&type=&language=rust"><img height="32" width="32" src="./assets/lang/rust.svg"/></a>
+<a href="https://github.com/adam-mcdaniel?tab=repositories&q=&type=&language=rust"><img height="32" width="32" src="./assets/lang/rust.svg" style="background-color:white;border-radius:0.5em"/></a>
 <a href="https://github.com/adam-mcdaniel?tab=repositories&q=&type=&language=c"><img height="32" width="32" src="./assets/lang/c.svg" /></a>
 <a href="https://github.com/adam-mcdaniel?tab=repositories&q=&type=&language=c%2B%2B">
 <img height="32" width="32" src="./assets/lang/cpp.svg" /></a>
@@ -74,7 +74,7 @@
 
 #### My Tools⚙️
 
-<img height="32" width="32" src="./assets/tool/vscode.svg" /><img height="32" width="32" src="./assets/tool/git.svg" /><img height="32" width="32" src="./assets/tool/apple.svg" /><img height="32" width="32" src="./assets/tool/linux.svg" /><img height="32" width="32" src="./assets/tool/github.svg" /><img height="32" width="32" src="./assets/tool/jupyter.svg" /><img height="32" width="32" src="./assets/tool/alacritty.svg" /><img height="32" width="32" src="./assets/tool/cmake.svg" /><img height="32" width="32" src="./assets/tool/gatsby.svg" /><img height="32" width="32" src="./assets/tool/overleaf.svg" />
+<img height="32" width="32" src="./assets/tool/vscode.svg" /><img height="32" width="32" src="./assets/tool/git.svg" /><img height="32" width="32" src="./assets/tool/apple.svg" style="background-color:white;border-radius:0.5em" /><img height="32" width="32" src="./assets/tool/linux.svg" /><img height="32" width="32" src="./assets/tool/github.svg" style="background-color:white;border-radius:0.5em" /><img height="32" width="32" src="./assets/tool/jupyter.svg" /><img height="32" width="32" src="./assets/tool/alacritty.svg" /><img height="32" width="32" src="./assets/tool/cmake.svg" /><img height="32" width="32" src="./assets/tool/gatsby.svg" /><img height="32" width="32" src="./assets/tool/overleaf.svg" />
 
 
 <!--
