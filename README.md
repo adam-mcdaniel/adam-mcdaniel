@@ -102,7 +102,7 @@
     <img width="47.5%" src="https://github-readme-stats.vercel.app/api?username=adam-mcdaniel&show_icons=true&count_private=true&theme=onedark&number_format=long" />
   </a>
   <a href="https://adam-mcdaniel.github.io">
-    <img width="50.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=adam-mcdaniel&theme=onedark" />
+    <img width="50.5%" src="https://streak-stats.demolab.com/?user=adam-mcdaniel&theme=onedark" />
   </a>
   <br/> 
   <a href="https://adam-mcdaniel.github.io">
