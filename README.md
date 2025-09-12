@@ -29,7 +29,7 @@
   <li> 📫 How to reach me: <a href="mailto:adam.mcdaniel17@gmail.com">adam.mcdaniel17@gmail.com</a></li>
   <li> 📖 Read my blog <a href="https://adam-mcdaniel.github.io/blog">here</a></li>
   <li> 📄 Learn about my experiences on my <a href="https://github.com/adam-mcdaniel/resume">resume</a></li>
-  <li> 🇪🇸 Hablo español, llevo casi 4 años practicándolo! Si tú también lo hablas, envíame un mensaje!</li>
+  <li> 🇪🇸 He estado hablando español desde 2021! Si tú también lo hablas, envíame un mensaje!</li>
 </ul>
 </div>
 
@@ -184,7 +184,7 @@
 |Chemistry| ▹ [Molecule - An Organic Chemistry Library](https://github.com/adam-mcdaniel/molecule)|
 |Compilers| ▹ [Sage Programming Language](https://github.com/adam-mcdaniel/sage)<br/> ▹ [Oak Programming Language](https://github.com/adam-mcdaniel/oakc)<br/> ▹ [BASM Assembly Language](https://github.com/adam-mcdaniel/basm)<br/> ▹ [Harbor Programming Language](https://github.com/adam-mcdaniel/harbor)<br/> ▹ [Tsar Programming Language](https://github.com/adam-mcdaniel/tsar)<br/> ▹ [Free Programming Language](https://github.com/adam-mcdaniel/free)<br/> ▹ [Bootstrapped Wisp Compiler](https://github.com/adam-mcdaniel/wisp-bootstrap)<br/> ▹ [Extended BrainF!$@ Compiler](https://github.com/adam-mcdaniel/smpl)|
 |Cybersecurity/Crypto| ▹ [VPN](https://github.com/adam-mcdaniel/vpn)<br/> ▹ [RSA implementation](https://github.com/adam-mcdaniel/rsa)<br/> ▹ [AES implementation](https://github.com/adam-mcdaniel/sage/blob/main/examples/frontend/AES.sg)|
-|High Performance Computing| ▹ [Scalable GPU Profiling on Exascale Clusters using AMD](https://github.com/adam-mcdaniel/scorep-amd)<br/> ▹ [Exascale Energy Usage Analysis - Identify Power-Hungry GPU Kernels](https://github.com/adam-mcdaniel/hpc-energy-trace-analysis)<br/> ▹ [ScoreP Instrumented `rocHPL` Benchmark](https://github.com/adam-mcdaniel/scorep-rocHPL)<br/> ▹ [ScoreP Instrumented Mixed-Precision `rocHPL` Benchmark](https://github.com/adam-mcdaniel/scorep-rocHPL-MxP)<br/> ▹ [ScoreP Instrumented Mixed-Precision `HPG` Benchmark](https://github.com/adam-mcdaniel/scorep-HPG-MxP)|
+|High Performance Computing| ▹ [Scalable GPU Profiling on Exascale Clusters using AMD](https://github.com/adam-mcdaniel/scorep-amd)<br/> ▹ [Exascale Energy Usage Analysis - Identify Power-Hungry GPU Kernels](https://github.com/adam-mcdaniel/hpc-energy-trace-analysis)|
 |Interpreters| ▹ [Sage-Lisp](https://github.com/adam-mcdaniel/sage-lisp)<br/> ▹ [Wisp](https://github.com/adam-mcdaniel/wisp)<br/> ▹ [Dynamic BrainF!$@ Web Interpreter](https://adam-mcdaniel.github.io/harbor)<br/> ▹ [Dune Scripting Language](https://github.com/adam-mcdaniel/dune)<br/> ▹ [Maroon Functional Programming Language](https://github.com/adam-mcdaniel/maroon-lang)|
 |Computer Vision| ▹ [Sight - Computer Vision Library](https://github.com/adam-mcdaniel/sight)<br/> ▹ [Command Line Vision Processing](https://github.com/adam-mcdaniel/cmd-vision)|
 |Developer Tools| ▹ [Text Editor with Lisp-Like Scripting](https://github.com/adam-mcdaniel/lite)<br/> ▹ [Rusty-CI Continuous Integration Tool](https://github.com/adam-mcdaniel/rusty-ci)<br/> ▹ [Git Blame Analysis](https://github.com/adam-mcdaniel/blame-tracker)|
