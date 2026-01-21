@@ -42,6 +42,7 @@
 | ▹ [Sage Programming Language](https://adam-mcdaniel.github.io/sage-website)|
 | ▹ [Dune Shell](https://adam-mcdaniel.github.io/dune-website)|
 | ▹ [Music](https://adam-mcdaniel.github.io/music)|
+| ▹ [o kama sona e toki pona!](https://adam-mcdaniel.github.io/toki-pona)|
 
 <!-- |Personal Website| ▹ [adam-mcdaniel.github.io](https://adam-mcdaniel.github.io)|
 |Blog| ▹ [adam-mcdaniel.github.io/blog](https://adam-mcdaniel.github.io/blog)|
@@ -195,7 +196,7 @@
 |Robotics| ▹ [2020 First Robotics Competition](https://github.com/adam-mcdaniel/rc2020)<br/> ▹ [2019 First Robotics Competition](https://github.com/adam-mcdaniel/rc)|
 |Systems Programming| ▹ [Operating System (Written in C + My Programming Language)](https://github.com/adam-mcdaniel/sage-os)<br/> ▹ [HeapPulse - A Heap Memory Profiler](https://github.com/adam-mcdaniel/allocation-tracker)<br/> ▹ [Dynamic CPU Scheduling Simulator (Tomasulo's Algorithm)](https://github.com/adam-mcdaniel/dynamic-scheduling)|
 |Shell Programming| ▹ [Dune Shell](https://github.com/adam-mcdaniel/dune)<br/> ▹ [Atom Shell](https://github.com/adam-mcdaniel/atom)|
-|Text Processing| ▹ [Regex Engine](https://github.com/adam-mcdaniel/regex-engine)<br/> ▹ [Honeycomb Parser Combinator Library](https://github.com/adam-mcdaniel/honeycomb)<br/> ▹ [Argument Parser Library](https://github.com/adam-mcdaniel/clip)<br/> ▹ [YAML Parser Library](https://github.com/adam-mcdaniel/rusty-yaml)<br/> ▹ [Markdown → HTML in Haskell](https://github.com/adam-mcdaniel/markdown-to-html)|
+|Text Processing| ▹ [Toki Pona: General Purpose Natural-Language-Processing Library](https://github.com/adam-mcdaniel/toki-pona)<br/>  ▹ [Regex Engine](https://github.com/adam-mcdaniel/regex-engine)<br/> ▹ [Honeycomb Parser Combinator Library](https://github.com/adam-mcdaniel/honeycomb)<br/> ▹ [Argument Parser Library](https://github.com/adam-mcdaniel/clip)<br/> ▹ [YAML Parser Library](https://github.com/adam-mcdaniel/rusty-yaml)<br/> ▹ [Markdown → HTML in Haskell](https://github.com/adam-mcdaniel/markdown-to-html)|
 |Games| ▹ [Hold The Line! - LangJam GameJam 2025](https://github.com/adam-mcdaniel/hold-the-line)<br/> ▹ [Chess Engine](https://github.com/adam-mcdaniel/chess-engine)<br/> ▹ [Game of Life](https://github.com/adam-mcdaniel/game-of-life)<br/> ▹ [State Capitalist Chess Engine](https://github.com/adam-mcdaniel/capitalist-chess)<br/> ▹ [Microbiome](https://github.com/adam-mcdaniel/microbiome)<br/> ▹ [Rogue-like Game Engine](https://github.com/adam-mcdaniel/rogue-like)<br/> ▹ [Sage Implementation of Chess Engine](https://github.com/adam-mcdaniel/sage-chess)|
 |Miscellaneous| ▹ [Adam's Discord Bot](https://github.com/adam-mcdaniel/adams-bot)<br/> ▹ [Big Integer Library](https://github.com/adam-mcdaniel/bigint)<br/> ▹ [Tiny Package Manager](https://github.com/adam-mcdaniel/rapture)<br/> ▹ [TI84 App Builder](https://github.com/adam-mcdaniel/qalc)<br/> ▹ [Smartlamp API](https://github.com/adam-mcdaniel/smartlamp)<br/> ▹ [Terrible Resume Generator](https://github.com/adam-mcdaniel/ResumeGenerator)|
 
